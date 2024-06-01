@@ -7,10 +7,10 @@ Project Objectives
 
 The primary goals of this research are:
 
-    Data Analysis and Preprocessing: To process and analyze real-world transaction data for modeling.
-    Fraud Detection with Machine Learning: To employ machine learning techniques to detect and categorize fraudulent transactions accurately.
-    Algorithm Evaluation: To assess the effectiveness of various machine learning models using metrics such as accuracy.
-    Model Comparison: To explore and document the capabilities and limitations of different algorithms in fraud detection.
+* Data Analysis and Preprocessing: To process and analyze real-world transaction data for modeling.
+* Fraud Detection with Machine Learning: To employ machine learning techniques to detect and categorize fraudulent transactions accurately.
+* Algorithm Evaluation: To assess the effectiveness of various machine learning models using metrics such as accuracy.
+* Model Comparison: To explore and document the capabilities and limitations of different algorithms in fraud detection.
 
 Key Findings
 
